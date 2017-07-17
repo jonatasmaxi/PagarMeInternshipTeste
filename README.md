@@ -2,7 +2,7 @@
 
 Teste para vaga de estagiário da empresa Pagar.Me
 
-Aplicação Java que segue os requisitos solicitados. 
+Aplicação Java (projeto Netbeans) que segue os requisitos solicitados. 
 
 Para criar um novo cliente (entidade Customer), utilize a aba cadastro de clientes
 
