@@ -1,0 +1,65 @@
+.menu{
+
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #90ee90;
+
+}
+li {
+    float:left;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #90ee90;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+thead{
+    background-color: #90ee90;
+    color: white;
+    text-align: center;
+
+}
+td{
+    font-weight: bold;  
+}
+
+table,td,th{
+    border: 1px solid black;
+
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #90ee90;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+form{
+    padding-right: 50px;
+    margin: 32px;
+    color:black;
+    font-weight: bold;
+}
+
+h3{
+    margin: -12px;
+}
